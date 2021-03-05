@@ -1,4 +1,4 @@
-Working on [absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports)
+Been working on [absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports):
 
 <p align="center">
     <a href="#readme">
