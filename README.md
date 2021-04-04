@@ -1,6 +1,6 @@
 Been working on :
 
-- [nbqa](https://github.com/nbQA-dev/nbQA):
+- [nbQA](https://github.com/nbQA-dev/nbQA):
 
 <p align="center">
     <a href="#readme">
