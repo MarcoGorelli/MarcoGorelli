@@ -16,11 +16,3 @@ Been working on :
         <img alt="demo" src="https://raw.githubusercontent.com/nbQA-dev/nbQA-demo/master/abs-imports.gif">
     </a>
 </p>
-
-- [check-execution-order](https://github.com/MarcoGorelli/check-execution-order):
-
-<p align="center">
-    <a href="#readme">
-        <img alt="demo" src="https://raw.githubusercontent.com/nbQA-dev/nbQA-demo/master/check-execution-order.gif">
-    </a>
-</p>
