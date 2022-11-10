@@ -1,3 +1,7 @@
+Mastodon: https://fosstodon.org/web/@marcogorelli
+
+Live streaming pandas development: https://www.youtube.com/@marco_gorelli
+
 Been working on :
 
 - [nbQA](https://github.com/nbQA-dev/nbQA):
