@@ -4,6 +4,6 @@ I work on pandas (as part of work) and polars (as volunteer), and am mostly inte
 
 I've also written some code quality tools:
 - cython-lint
-- nbQA
-- auto-walrus (very silly)
 - absolufy-imports (superseded by ruff)
+- nbQA (probably soon-to-be superseded by ruff)
+- auto-walrus (very silly, not recommended, hopefully won't be implemented in ruff)
