@@ -1,6 +1,6 @@
 Hello everybody,
 
-I work Quansight Labs and spend time on:
+I work at Quansight Labs and spend time on:
 - Polars
 - pandas
 - Consortium for Python Data API Standards
@@ -12,4 +12,4 @@ I've also written some assorted little tools:
 - nbQA (mostly superseded by ruff, but still gets ~100k downloads/month for some reason)
 - auto-walrus (hopefully won't be implemented in ruff)
 - polars-upgrade
-- polars-business
+- polars-xdt
