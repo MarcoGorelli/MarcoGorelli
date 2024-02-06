@@ -3,7 +3,6 @@ Hello everybody,
 I work at Quansight Labs and spend time on:
 - Polars
 - pandas
-- Consortium for Python Data API Standards
 - assorted consluting / training
 
 I've also written some assorted little tools:
@@ -13,3 +12,5 @@ I've also written some assorted little tools:
 - auto-walrus (hopefully won't be implemented in ruff)
 - polars-upgrade
 - polars-xdt
+
+and a tutorial on how to write Polars Plugins: https://marcogorelli.github.io/polars-plugins-tutorial/. Don't be scared
