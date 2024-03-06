@@ -12,5 +12,6 @@ I've also written some assorted little tools:
 - auto-walrus (hopefully won't be implemented in ruff)
 - polars-upgrade
 - polars-xdt
+- narwhals (🎵singing in the ocean, causing a commotion🎶)
 
 and a tutorial on how to write Polars Plugins: https://marcogorelli.github.io/polars-plugins-tutorial/. Don't be scared
