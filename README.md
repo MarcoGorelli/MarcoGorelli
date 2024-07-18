@@ -3,7 +3,7 @@ Hello everybody,
 I work at Quansight Labs and spend time on:
 - Polars
 - pandas
-- assorted consluting / training
+- assorted consulting / training
 
 I've also written some assorted little tools:
 - cython-lint (the world's first Cython linter?)
