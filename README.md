@@ -15,3 +15,7 @@ I've also written some assorted little tools:
 - narwhals (🎵singing in the ocean, causing a commotion🎶)
 
 and a tutorial on how to write Polars Plugins: https://marcogorelli.github.io/polars-plugins-tutorial/. Don't be scared
+
+Socials:
+- https://fosstodon.org/@marcogorelli
+- https://www.linkedin.com/in/marcogorelli/
