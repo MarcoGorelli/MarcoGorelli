@@ -11,6 +11,7 @@ I've also written some assorted little tools:
 - nbQA (mostly superseded by ruff, but still gets ~300k downloads/month for some reason)
 - auto-walrus (hopefully won't be superseded by ruff)
 - polars-xdt (eXtra stuff for Dates 'n' Times)
+- polars-reverse-geocode (quite niche, but some people use it)
 
 and a tutorial on how to write Polars Plugins: https://marcogorelli.github.io/polars-plugins-tutorial/. Don't be scared
 
